@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="helloworldmvc.model" />
+        <module name="helloworldmvc.view" />
+        <module name="helloworldmvc.contract" />
+        <module name="Helloworldmvc.main" />
+        <module name="helloworldmvc.controller" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Helloworld.contract" target="18" />
+      <module name="Helloworld.controller" target="18" />
+      <module name="Helloworld.model" target="18" />
+      <module name="Helloworld.view" target="18" />
+      <module name="Helloworldmaven" target="18" />
+      <module name="Helloworldmvc.Contract" target="18" />
+      <module name="Helloworldmvc.controller" target="18" />
+      <module name="Helloworldmvc.view" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

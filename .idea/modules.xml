@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Helloworld.contract.iml" filepath="$PROJECT_DIR$/Helloworld.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Helloworld.controller.iml" filepath="$PROJECT_DIR$/Helloworld.controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Helloworld.model.iml" filepath="$PROJECT_DIR$/Helloworld.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Helloworld.view.iml" filepath="$PROJECT_DIR$/Helloworld.view.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/helloworlddmvc.iml" filepath="$PROJECT_DIR$/.idea/helloworlddmvc.iml" />
     </modules>
   </component>
